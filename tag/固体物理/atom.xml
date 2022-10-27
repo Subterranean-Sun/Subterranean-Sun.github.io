@@ -16,7 +16,7 @@
         <content type="html">
 
 	&lt;div class=&#34;row&#34;&gt;
-    &lt;embed src=&#34;Solid-state_physics.pdf&#34; width=&#34;100%&#34; height=&#34;550&#34; type=&#34;application/pdf&#34;&gt;
+    &lt;embed src=&#34;./Solid-state_physics.pdf&#34; width=&#34;100%&#34; height=&#34;550&#34; type=&#34;application/pdf&#34;&gt;
 	&lt;/div&gt;
 
 
