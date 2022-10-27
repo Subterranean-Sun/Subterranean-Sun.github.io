@@ -19,7 +19,15 @@
             <category term="大二的稀烂笔记" scheme="https://subterranean-sun.github.io/tags/%E5%A4%A7%E4%BA%8C%E7%9A%84%E7%A8%80%E7%83%82%E7%AC%94%E8%AE%B0/" />
             <category term="固体物理" scheme="https://subterranean-sun.github.io/tags/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/" />
             <pubDate>Thu, 27 Oct 2022 22:49:34 +0800</pubDate>
-            <description><![CDATA[ &lt;img src = &#34;Solid-state_physics.png&#34;&gt; ]]></description>
+            <description><![CDATA[ 
+
+	&lt;div class=&#34;row&#34;&gt;
+    &lt;embed src=&#34;/my_source_pdf/Solid-state_physics.pdf&#34; width=&#34;100%&#34; height=&#34;550&#34; type=&#34;application/pdf&#34;&gt;
+	&lt;/div&gt;
+
+
+
+&lt;img src = &#34;Solid-state_physics.png&#34;&gt; ]]></description>
         </item>
     </channel>
 </rss>

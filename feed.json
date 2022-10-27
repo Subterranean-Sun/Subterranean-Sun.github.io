@@ -11,7 +11,7 @@
             "url": "https://subterranean-sun.github.io/Solid-state_physics/",
             "title": "晶体衍射与倒格子作业1",
             "date_published": "2022-10-27T14:49:34.095Z",
-            "content_html": "<img src = \"Solid-state_physics.png\">",
+            "content_html": "\n\n\t<div class=\"row\">\n    <embed src=\"/my_source_pdf/Solid-state_physics.pdf\" width=\"100%\" height=\"550\" type=\"application/pdf\">\n\t</div>\n\n\n\n<img src = \"Solid-state_physics.png\">",
             "tags": [
                 "大二的稀烂笔记",
                 "固体物理"
